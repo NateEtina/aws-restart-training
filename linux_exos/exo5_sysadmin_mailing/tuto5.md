@@ -1,9 +1,7 @@
 
 # SysAdmin Mailing Exercise
-
 Write a script that send CPU, Memory and available storage a E-mail to the sysAdmin 
 Linux Distribution: Ubuntu
-
 ## CPU performance checking commands
 ### using top command
 top command display all linux processes that occur
@@ -20,14 +18,12 @@ htop
 sudo apt install sysstat
 mpstat
 ```
-
 ## Memory checking
 ### using free command
 free displays memory usage
 ```
 free -h
 ```
-
 ## Available Storage
 ### using df command
 df displays storage disk usage
